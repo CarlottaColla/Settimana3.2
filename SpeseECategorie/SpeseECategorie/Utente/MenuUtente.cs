@@ -152,14 +152,12 @@ namespace SpeseECategorie.Utente
                         esci = true;
                         break;
                 }
-                Console.WriteLine("Premi un tasto per continuare...");
-                Console.ReadKey();
-
+                if(op != 7)
+                {
+                    Console.WriteLine("Premi un tasto per continuare...");
+                    Console.ReadKey();
+                }
             } while (esci == false);
-           
-
         }
-        
-
     }
 }
