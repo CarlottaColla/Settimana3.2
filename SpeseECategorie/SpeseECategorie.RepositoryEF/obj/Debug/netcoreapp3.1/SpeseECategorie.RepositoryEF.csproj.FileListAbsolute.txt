@@ -1,0 +1,15 @@
+C:\Users\carlotta.colla\Documents\Esami\Settimana3.2\SpeseECategorie\SpeseECategorie.RepositoryEF\bin\Debug\netcoreapp3.1\SpeseECategorie.RepositoryEF.deps.json
+C:\Users\carlotta.colla\Documents\Esami\Settimana3.2\SpeseECategorie\SpeseECategorie.RepositoryEF\bin\Debug\netcoreapp3.1\SpeseECategorie.RepositoryEF.runtimeconfig.json
+C:\Users\carlotta.colla\Documents\Esami\Settimana3.2\SpeseECategorie\SpeseECategorie.RepositoryEF\bin\Debug\netcoreapp3.1\SpeseECategorie.RepositoryEF.runtimeconfig.dev.json
+C:\Users\carlotta.colla\Documents\Esami\Settimana3.2\SpeseECategorie\SpeseECategorie.RepositoryEF\bin\Debug\netcoreapp3.1\SpeseECategorie.RepositoryEF.dll
+C:\Users\carlotta.colla\Documents\Esami\Settimana3.2\SpeseECategorie\SpeseECategorie.RepositoryEF\bin\Debug\netcoreapp3.1\SpeseECategorie.RepositoryEF.pdb
+C:\Users\carlotta.colla\Documents\Esami\Settimana3.2\SpeseECategorie\SpeseECategorie.RepositoryEF\bin\Debug\netcoreapp3.1\SpeseECategorie.EntitiesRepository.dll
+C:\Users\carlotta.colla\Documents\Esami\Settimana3.2\SpeseECategorie\SpeseECategorie.RepositoryEF\bin\Debug\netcoreapp3.1\SpeseECategorie.EntitiesRepository.pdb
+C:\Users\carlotta.colla\Documents\Esami\Settimana3.2\SpeseECategorie\SpeseECategorie.RepositoryEF\obj\Debug\netcoreapp3.1\SpeseECategorie.RepositoryEF.csprojAssemblyReference.cache
+C:\Users\carlotta.colla\Documents\Esami\Settimana3.2\SpeseECategorie\SpeseECategorie.RepositoryEF\obj\Debug\netcoreapp3.1\SpeseECategorie.RepositoryEF.AssemblyInfoInputs.cache
+C:\Users\carlotta.colla\Documents\Esami\Settimana3.2\SpeseECategorie\SpeseECategorie.RepositoryEF\obj\Debug\netcoreapp3.1\SpeseECategorie.RepositoryEF.AssemblyInfo.cs
+C:\Users\carlotta.colla\Documents\Esami\Settimana3.2\SpeseECategorie\SpeseECategorie.RepositoryEF\obj\Debug\netcoreapp3.1\SpeseECategorie.RepositoryEF.csproj.CoreCompileInputs.cache
+C:\Users\carlotta.colla\Documents\Esami\Settimana3.2\SpeseECategorie\SpeseECategorie.RepositoryEF\obj\Debug\netcoreapp3.1\SpeseECategorie.RepositoryEF.csproj.CopyComplete
+C:\Users\carlotta.colla\Documents\Esami\Settimana3.2\SpeseECategorie\SpeseECategorie.RepositoryEF\obj\Debug\netcoreapp3.1\SpeseECategorie.RepositoryEF.dll
+C:\Users\carlotta.colla\Documents\Esami\Settimana3.2\SpeseECategorie\SpeseECategorie.RepositoryEF\obj\Debug\netcoreapp3.1\SpeseECategorie.RepositoryEF.pdb
+C:\Users\carlotta.colla\Documents\Esami\Settimana3.2\SpeseECategorie\SpeseECategorie.RepositoryEF\obj\Debug\netcoreapp3.1\SpeseECategorie.RepositoryEF.genruntimeconfig.cache

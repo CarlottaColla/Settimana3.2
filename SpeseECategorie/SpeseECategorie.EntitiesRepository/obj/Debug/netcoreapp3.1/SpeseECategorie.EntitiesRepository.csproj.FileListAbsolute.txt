@@ -1,0 +1,9 @@
+C:\Users\carlotta.colla\Documents\Esami\Settimana3.2\SpeseECategorie\SpeseECategorie.EntitiesRepository\bin\Debug\netcoreapp3.1\SpeseECategorie.EntitiesRepository.deps.json
+C:\Users\carlotta.colla\Documents\Esami\Settimana3.2\SpeseECategorie\SpeseECategorie.EntitiesRepository\bin\Debug\netcoreapp3.1\SpeseECategorie.EntitiesRepository.dll
+C:\Users\carlotta.colla\Documents\Esami\Settimana3.2\SpeseECategorie\SpeseECategorie.EntitiesRepository\bin\Debug\netcoreapp3.1\SpeseECategorie.EntitiesRepository.pdb
+C:\Users\carlotta.colla\Documents\Esami\Settimana3.2\SpeseECategorie\SpeseECategorie.EntitiesRepository\obj\Debug\netcoreapp3.1\SpeseECategorie.EntitiesRepository.csprojAssemblyReference.cache
+C:\Users\carlotta.colla\Documents\Esami\Settimana3.2\SpeseECategorie\SpeseECategorie.EntitiesRepository\obj\Debug\netcoreapp3.1\SpeseECategorie.EntitiesRepository.AssemblyInfoInputs.cache
+C:\Users\carlotta.colla\Documents\Esami\Settimana3.2\SpeseECategorie\SpeseECategorie.EntitiesRepository\obj\Debug\netcoreapp3.1\SpeseECategorie.EntitiesRepository.AssemblyInfo.cs
+C:\Users\carlotta.colla\Documents\Esami\Settimana3.2\SpeseECategorie\SpeseECategorie.EntitiesRepository\obj\Debug\netcoreapp3.1\SpeseECategorie.EntitiesRepository.csproj.CoreCompileInputs.cache
+C:\Users\carlotta.colla\Documents\Esami\Settimana3.2\SpeseECategorie\SpeseECategorie.EntitiesRepository\obj\Debug\netcoreapp3.1\SpeseECategorie.EntitiesRepository.dll
+C:\Users\carlotta.colla\Documents\Esami\Settimana3.2\SpeseECategorie\SpeseECategorie.EntitiesRepository\obj\Debug\netcoreapp3.1\SpeseECategorie.EntitiesRepository.pdb
