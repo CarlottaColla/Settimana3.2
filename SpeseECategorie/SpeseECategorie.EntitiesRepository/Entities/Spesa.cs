@@ -26,7 +26,7 @@ namespace SpeseECategorie.EntitiesRepository.Entities
         public override string ToString()
         {
             return $"{ID} : {Descrizione} categoria = {CategoriaID} in data {Data.ToShortDateString()} " +
-                $"\neffettuata dall'utente numero {Utente} di euro {Importo} approvata = {Approvato}";
+                $"\neffettuata dall'utente {Utente} di euro {Importo} approvata = {Approvato}";
         }
 
 

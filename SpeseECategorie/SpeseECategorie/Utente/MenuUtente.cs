@@ -19,6 +19,7 @@ namespace SpeseECategorie.Utente
             IRepositoryCategorie categorieRepo = new RepositoryCategorie();
             do
             {
+                Console.Clear();
                 Console.WriteLine("Cosa vuoi fare?\n" +
                     "1 - Inserisci una nuova spesa\n" +
                     "2 - Approva una spesa\n" +
@@ -61,7 +62,7 @@ namespace SpeseECategorie.Utente
                         Console.WriteLine("Inserisci una descrizione:");
                         string descrizione = Console.ReadLine();
                         spesa.Descrizione = descrizione;
-                        Console.WriteLine("Nome utente:");
+                        Console.WriteLine("Nome dell'utente:");
                         string utente = Console.ReadLine();
                         spesa.Utente = utente;
                         Console.WriteLine("Inserisci l'importo:");
@@ -78,7 +79,7 @@ namespace SpeseECategorie.Utente
                         if (spesaRepo.Create(spesa))
                             Console.WriteLine("Spesa inserita correttamente");
                         else
-                            Console.WriteLine("Spesa non inserita");
+                            Console.WriteLine("Attenzione! Spesa non inserita");
                         break;
                     case 2:
                         //Approva una spesa
@@ -90,7 +91,11 @@ namespace SpeseECategorie.Utente
                         Console.WriteLine("Quale spesa vuoi approvare?");
                         int nSpesa = Int32.Parse(Console.ReadLine());
                         Spesa spesaDaApprovare = spesaRepo.GetSpesa(nSpesa);
-                        spesaRepo.Update(spesaDaApprovare);
+                        spesaDaApprovare.Approvato = true;
+                        if (spesaRepo.Update(spesaDaApprovare))
+                            Console.WriteLine("Spesa approvata con successo");
+                        else
+                            Console.WriteLine("Attenzione! Spesa non approvata");
                         break;
                     case 3:
                         //Cancella una spesa
@@ -101,7 +106,10 @@ namespace SpeseECategorie.Utente
                         }
                         Console.WriteLine("Quale spesa vuoi cancellare?");
                         int spesaDaCacellare = Int32.Parse(Console.ReadLine());
-                        spesaRepo.Delete(spesaDaCacellare);
+                        if (spesaRepo.Delete(spesaDaCacellare))
+                            Console.WriteLine("Spesa cancellata con successo");
+                        else
+                            Console.WriteLine("Attenzione! Spesa non cancellata");
                         break;
                     case 4:
                         //Mostra le spese approvate
@@ -117,7 +125,6 @@ namespace SpeseECategorie.Utente
                                 Console.WriteLine($"{item}");
                             }
                         }
-                        
                         break;
                     case 5:
                         //Mostra spese utente
@@ -145,7 +152,8 @@ namespace SpeseECategorie.Utente
                         esci = true;
                         break;
                 }
-
+                Console.WriteLine("Premi un tasto per continuare...");
+                Console.ReadKey();
 
             } while (esci == false);
            
